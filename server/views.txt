@@ -1,0 +1,17 @@
+3
+3
+Colori
+Rosso
+Giallo
+Verde
+3
+On,Off,Blink
+On
+Off
+Blink
+4
+Gusti Gelato
+Limone
+Fragola
+Cioccolato Fondente
+Fiordilatte
