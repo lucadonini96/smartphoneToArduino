@@ -6,8 +6,8 @@ Giallo
 Verde
 3
 On,Off,Blink
-On
 Off
+On
 Blink
 4
 Gusti Gelato
